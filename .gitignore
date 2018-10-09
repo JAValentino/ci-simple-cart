@@ -19,7 +19,14 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 
 assets/css/skins
 assets/css/AdminLTE.min.css
+assets/css/fullcalendar.min.css
+assets/css/datetimepicker.min.css
 assets/js/adminlte.min.js
+assets/js/moment.min.js
+assets/js/fullcalendar.min.js
+assets/js/gcal.min.js
+assets/js/datetimepicker.minjs
+
 
 readme.rst
 license.txt
