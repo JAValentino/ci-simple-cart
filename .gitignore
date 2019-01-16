@@ -6,11 +6,12 @@ application/logs/*
 !application/logs/index.html
 !application/*/.htaccess
 application/controllers/*
-!application/controllers/crud.php
+!application/controllers/shop.php
 application/models/*
-!application/models/crud_model.php
+!application/models/shop_model.php
 application/views/*
-!application/views/crud_view.php
+!application/views/shop_view.php
+!application/views/errors
 
 user_guide_src/build/*
 user_guide_src/cilexer/build/*
@@ -19,19 +20,7 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 
 assets/css/skins
 assets/css/AdminLTE.min.css
-assets/css/fullcalendar.min.css
-assets/css/datetimepicker.min.css
 assets/js/adminlte.min.js
-assets/js/moment.min.js
-assets/js/fullcalendar.min.js
-assets/js/gcal.min.js
-assets/js/datetimepicker.min.js
-
-
-readme.rst
-license.txt
-contributing.md
-.editorconfig
 
 /vendor/
 

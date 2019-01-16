@@ -94,7 +94,6 @@
 	<script type="text/javascript">
 		$(document).ready(function(){
 			var table =  $('#table').DataTable({
-				"processing":true,
 				"serverSide":true,
 				"order":[],
 				"ajax":{
